@@ -1,4 +1,4 @@
-# A general set of argorithms in .java files
+# A general set of argorithms - each file's title should be explanative to what the code inside does.
 
 while I was undertaking a java course at the Informal School of IT in Timișoara, along the way we developed basic algorithms to undestand concepts.
 
