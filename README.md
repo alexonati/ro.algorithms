@@ -1,6 +1,8 @@
-# A general set of argorithms - each file's title should be explanative to what the code inside does.
+# A general set of argorithms 
 
-while I was undertaking a java course at the Informal School of IT in Timișoara, along the way we developed basic algorithms to undestand concepts.
+* Each file's title should be explanative to what the code inside does.
+
+* While I was undertaking a java course at the Informal School of IT in Timișoara, along the way we developed basic algorithms to undestand concepts.
 
 # What I Learned
 
